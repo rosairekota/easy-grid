@@ -1,11 +1,13 @@
-Cette petite feuille vous aide a utiliser les grid aisement comme sur bootsrap,..
-
+# Easy-grid
+Cette petite librairie vous aide a utiliser les grid aisement comme sur bootsrap,..
+Pour l'utiliser, 1. Vous devez inclure le fichier **rkota-grid.css**  dans votre projet.
 Il est basé sur 12 colonnes.
-
 - Petite ecrant : sm
 - Moyenne: md
 - Ecran Large: lg
-# Exemple: Creation de 3 blocks sur l'ecran moyen: sachant qu'on a 12 colonnes <br>
+- 
+###### Exemple: Creation de 3 blocs sur l'ecran moyen: sachant qu'on a 12 colonnes <br>
+ 
  &lt;div class="container" &gt;<br>
   &lt;div class="row" &gt;<br>
    &lt;div class="col-md-4"&gt; 1<br>
@@ -17,5 +19,6 @@ Il est basé sur 12 colonnes.
     &lt;/div&gt;<br>
     &lt;/div&gt;
     
-  # Rendu :
+  ###### Rendu :
   <a href="https://rosairekota.github.io/easy-grid/index.html">https://rosairekota.github.io/easy-grid</a>
+  
