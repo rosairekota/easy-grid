@@ -1,4 +1,4 @@
-cette petite feuille vous aide a utiliser les grid aisement comme sur bootsrap,..
+Cette petite feuille vous aide a utiliser les grid aisement comme sur bootsrap,..
 
 Il est basé sur 12 colonnes.
 
@@ -16,3 +16,6 @@ Il est basé sur 12 colonnes.
     &lt;/div&gt;<br>
     &lt;/div&gt;<br>
     &lt;/div&gt;
+    
+  # Rendu :
+  <a href="https://rosairekota.github.io/easy-grid/index.html">https://rosairekota.github.io/easy-grid</a>
