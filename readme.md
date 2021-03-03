@@ -1,5 +1,5 @@
 # Easy-grid #
-https://github.com/rosairekota/easy-grid/blob/master/images/rkota-grid.png
+
 Cette petite librairie vous aide a utiliser les grid aisement comme sur bootsrap,..<br>
 Pour l'utiliser, 1. Vous devez inclure le fichier rkota-grid.css  dans votre projet.<br>
 Il est basé sur 12 colonnes.
@@ -22,4 +22,6 @@ Il est basé sur 12 colonnes.
     
   ## Rendu :
   <a href="https://rosairekota.github.io/easy-grid/index.html">https://rosairekota.github.io/easy-grid</a>
+  ![Rendu]
+https://github.com/rosairekota/easy-grid/blob/master/images/rkota-grid.png
   
