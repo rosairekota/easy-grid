@@ -1,7 +1,7 @@
-#Easy-grid #
+# Easy-grid #
 
 Cette petite librairie vous aide a utiliser les grid aisement comme sur bootsrap,..<br>
-*Pour l'utiliser, 1. Vous devez inclure le fichier* **rkota-grid.css**  dans votre projet.<br>
+*Pour l'utiliser, 1. Vous devez inclure le fichier* rkota-grid.css  dans votre projet.<br>
 Il est basé sur 12 colonnes.
 **1. Petite ecrant : sm
 2. Moyenne: md**
