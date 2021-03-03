@@ -22,6 +22,6 @@ Il est basé sur 12 colonnes.
     
   ## Rendu :
   <a href="https://rosairekota.github.io/easy-grid/index.html">https://rosairekota.github.io/easy-grid</a>
-  ![Rendu]
+  ![Image of Yaktocat]
 https://github.com/rosairekota/easy-grid/blob/master/images/rkota-grid.png
   
