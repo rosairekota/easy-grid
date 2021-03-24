@@ -19,7 +19,7 @@
 /** VERSION TELEPHONES (small)=sm */
 
     .col-sm-1{
-        grid-column: span 1;
+        grid-column: span 12;
     }
     .col-sm-2{
         grid-column: span 2;
