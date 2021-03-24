@@ -18,11 +18,11 @@
 
 /** VERSION TELEPHONES (small)=sm */
 
-    .col-sm-1{
+    .col-small-1{
         grid-column: span 12;
     }
    
-    .col-sm-12{
+    .col-small-12{
         grid-column: span 12;
     }
    
@@ -31,8 +31,8 @@
 
 @media screen and (min-width:768px){
     
-    .col-md-3{
-        grid-column: span 3;
+    .col-medium-4{
+        grid-column: span 4;
     }
     
 }
@@ -42,8 +42,8 @@
 
 @media screen and (min-width:1280px){
     
-    .col-lg-3{
-        grid-column: span 3; 
+    .col-large-4{
+        grid-column: span 4; 
     }
    
 }
